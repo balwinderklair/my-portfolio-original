@@ -39,7 +39,7 @@ module.exports = {
         homePage: {
           availableToHire: true,
           dotColors: ['#0e3e1e', '#6CC551'],
-          h1Text: `Hi!, I'm Christian David Ibarguen`,
+          h1Text: `Hi!, I'm Balwinder Thomsan`,
           h2Text: `I'm a Full Stack Developer who loves working in Backend, I have
               worked as a software developer since 2006.`,
           typewriter: [
