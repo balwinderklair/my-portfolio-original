@@ -1,8 +1,8 @@
 ---
-title: 'This is test'
-company: 'Company Name'
-logo: ../images/skills/icon.png
-jobTitle: 'My job position'
+title: 'E-commerce App'
+company: 'Zeiq'
+logo: ../images/companies/first-project.png
+jobTitle: 'UI designer'
 skills:
   [
     { title: 'HTML 5', image: ../images/skills/icon.png },
@@ -16,9 +16,9 @@ images:
       layout: '4',
       files:
         [
-          { image: ../images/skills/icon.png },
-          { image: ../images/skills/icon.png },
-          { image: ../images/skills/icon.png },
+          { image: ../images/skills/project-view.png },
+          { image: ../images/skills/project-view.png },
+          { image: ../images/skills/project-view.png },
         ],
     },
     {
